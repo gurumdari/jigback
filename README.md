@@ -20,4 +20,4 @@ Deno is required to use less, scss, and ts. Deno is also required for minify. De
 ## JigTime
 Natural JavaScript Module for SPA (Single Page Application)
 
-[http://jigtime.org](http://jigtime.org)
+[https://github.com/gurumdari/jigtime](https://github.com/gurumdari/jigtime)
